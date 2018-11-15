@@ -2,7 +2,7 @@
 
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-Sunday School Management System is an Open Source School Management System Customized for Sunday Schools.Initially Developed by [![Jomon Thomas Lobo]](http://jomonlobo.online)
+Sunday School Management System is an Open Source School Management System Customized for Sunday Schools.Initially Developed by [Jomon Thomas Lobo](http://jomonlobo.online)
 
 
 ## Contributing
